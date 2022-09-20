@@ -1,3 +1,3 @@
 # tooling-website
 
-jenkins webhook
+jenkins change all permissions
