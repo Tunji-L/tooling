@@ -1,3 +1,3 @@
 # tooling-website
 
-jenkins change all permissions
+jenkins change all permissions on mnt
