@@ -1,4 +1,4 @@
 # tooling-website
-# on jen
+# on jenk
 
 jenkins change all permissions on mnt -R
