@@ -1,4 +1,4 @@
 # tooling-website
-# on jenkins new
+# on jenkins news
 
 jenkins change all permissions on mnt -R
